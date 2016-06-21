@@ -4,7 +4,7 @@ SIT
 
 SolomonInformationTechnology(SIT)   is  a new  IT field  born   at
 
-june 2016. 
+june 2016  by  wilmix  jemin j.
 
 a) This  field is  meant for  cloudcomputing  and software development. 
 
