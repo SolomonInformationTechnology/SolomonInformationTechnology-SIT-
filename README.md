@@ -19,7 +19,7 @@ to  reduce time and  cost
 e)  It  make  project  available  at any  time   by using Advanced  Business.
 
 
-f)  WRIT  (Jdollar section) and  other WRIT players  are the  team   players
+f)  WRIT   and  other WRIT players  are the  team   players
 
 
 in SIT.
