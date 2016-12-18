@@ -24,3 +24,5 @@ f)  WRIT   and  other WRIT players  are the  team   players
 
 in SIT.
   
+  
+Note:  SIT  field  is  for  U.S,U.k,Asia,europe,australia,Africa,ARABIA,canada only.
