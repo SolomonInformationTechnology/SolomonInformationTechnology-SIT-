@@ -1,0 +1,8 @@
+title: Solomoninformationtechnology-sit-
+description: SolomonInformationTechnology(SIT)   is  a new  IT field  born   at  june 2016.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
