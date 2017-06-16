@@ -26,3 +26,9 @@ in SIT.
   
   
 Note:  SIT  field  is  for  U.S,U.k,Asia,europe,australia,Africa,ARABIA,canada only.
+
+Note: (SOLOMONINFORMATIONTECHNOLOGY) SIT FIELD  = (AMERICA+EUROPE + ASIA  + ARABIA+AUSTRALIA  ) IT field companies
+
+is  otherwise  called  as SIT companies.
+
+but  Indian  IT  companies  are   not  included  as  SIT  field  or SIT COMPANIES.
