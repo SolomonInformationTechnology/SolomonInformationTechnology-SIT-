@@ -25,7 +25,7 @@ f)  WRIT   and  other WRIT players  are the  team   players
 in SIT.
   
   
-Note:  SIT  field  is  for  U.S,U.k,Asia,europe,australia,Africa,ARABIA,canada only.
+Note:  SIT  field  is  for  U.S,U.k,Asia,europe,australia,Africa,ARABIA,canada only; not  for  india.
 
 Note: (SOLOMONINFORMATIONTECHNOLOGY) SIT FIELD  = (AMERICA+EUROPE + ASIA  +AFRICA+ ARABIA+AUSTRALIA +canada+U.K ) IT field companies  is  
 =====
